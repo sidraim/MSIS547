@@ -1,2 +1,2 @@
 # MSIS547
-AI Financial Advise Platform
+AI Financial Advice Platform
